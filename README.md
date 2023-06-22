@@ -1,6 +1,6 @@
 Myntra-Clone :-
 
-This is a clone of myntra's website created using HTML, CSS and JavaScript.
+This is a clone of myntra's website created using HTML, CSS.
 
 
 You can also visit the same site 
