@@ -1,6 +1,6 @@
-Myntra-Clone :-
+# Myntra-Clone :- 
+      A frontend clone of E-commerce website of Myntra. This is created using HTML,CSS. The page is created for big screens i.e, laptops, PCs only.
 
-This is a clone of myntra's website created using HTML, CSS.
 
 
 You can also visit the same site 
