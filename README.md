@@ -10,10 +10,12 @@ Here:-
 
 Screenshots :- 
 
-![Screenshot (117)](https://github.com/subhrangshu9/myntra_clone/assets/74654165/8a1d7f0b-9441-453a-8143-118557495b67)
-
-![Screenshot (118)](https://github.com/subhrangshu9/myntra_clone/assets/74654165/6ccb1df5-2538-40b2-a604-ab433a16fac9)
-
-![Screenshot (119)](https://github.com/subhrangshu9/myntra_clone/assets/74654165/5d90445c-9311-45ca-85bc-caf26d013cd4)
 
 
+![Screenshot (117)](https://github.com/subhrangshu9/Myntra_Clone/assets/74654165/d60ff353-f7ba-4566-ac7c-c372cf4ff4ec)
+
+
+![Screenshot (118)](https://github.com/subhrangshu9/Myntra_Clone/assets/74654165/41e2126c-df82-4578-b7de-a39285e4bee8)
+
+
+![Screenshot (119)](https://github.com/subhrangshu9/Myntra_Clone/assets/74654165/5ffc05c9-5027-4eb3-9f5f-b592cefc5edd)
