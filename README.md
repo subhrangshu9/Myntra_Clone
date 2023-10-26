@@ -5,7 +5,7 @@
 
 You can also visit the same site 
 Here:- 
-    [https://subhrangshu-majumder-myntra-clone.netlify.app]
+  🚀  Website's [Live Link](https://subhrangshu9.github.io/Myntra_Clone/)🔗
 
 
 Screenshots :- 
